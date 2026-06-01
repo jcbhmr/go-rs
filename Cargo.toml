@@ -1,0 +1,7 @@
+[package]
+name = "jcbhmr-go"
+version = "1.26.3"
+edition = "2024"
+
+[dependencies]
+include_dir = { version = "0.7.4", features = ["glob", "metadata"] }
